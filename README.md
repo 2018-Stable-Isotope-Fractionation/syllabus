@@ -33,7 +33,7 @@ The goal of this course is that by the end of the semester, students will be
 
 ## Logistics
 
-The course logistics including materials, readings and assignments are available at [2018-Stable-Isotope-Fractionation.github.io/schedule](https://2018-Stable-Isotope-Fractionation.github.io/schedule). Note that the logistics page will be updated continuously. Please check the above link for updates and new information throughout the semester.
+The course logistics including materials, readings and assignments are available at [2018-Stable-Isotope-Fractionation.github.io/logistics](https://2018-Stable-Isotope-Fractionation.github.io/logistics). Note that the logistics page will be updated continuously. Please check the above link for updates and new information throughout the semester.
 
 ## Evaluation
 
