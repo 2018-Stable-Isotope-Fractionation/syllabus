@@ -9,7 +9,7 @@ This is the syllabus for the Spring 2018 **Stable Isotope Fractionation** class 
 
 - **Course**: Stable isotope fractionation in biogeochemical processes (Spring 2018, GEOL 5700-002)
 - **Instructor**: Sebastian Kopf ([sebastian.kopf@colorado.edu](mailto:sebastian.kopf@colorado.edu))
-- **Office hours**: [by appointment](mailto:sebastian.kopf@colorado.edu)
+- **Office hours**: TBD
 - **Prerequisites**: CHEM 1113/1114, CHEM 1251/1271 or equivalent
 
 ## What is this course about?
